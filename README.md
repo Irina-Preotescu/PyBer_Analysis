@@ -26,8 +26,17 @@ Regarding the cost of rides, the average fare per ride in urban cities was $24.5
 
 ![Fig8](https://github.com/Irina-Preotescu/PyBer_Analysis/blob/5f526744273d500031448845d90a00ac87f26c77/Fig8.png)
 
+By incorporating the multiple-line chart "Total Fare by City Type", we can observe these trends throughout the 4 weeks that were included in the analysis.
 
+![PyBer_fare_summary.png](https://github.com/Irina-Preotescu/PyBer_Analysis/blob/b21da8e4f9643a3754bbee2c424e9680b6defd76/PyBer_fare_summary.png)
 
+A few aspects can be noticed at a first glance:
+* There is a significant spike in fares towards the end of February for all city types.
+* Urban ride fares experience the greatest fluctuation in price during March, while suburban and rural ride fares experience a more steady flow, with only a slight increase mid-month for suburban rides and a considerable spike for rural rides at the end of the month.
+* Both urban and suburban fares are at their peak at the end of February, while rural fares reach their peak at the end of March.
 
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on these findings, here are 3 business recommendations for addressing some of the disparities among the city types.
+1. In order to improve accessibility to PyBer rideshare services in rural cities, PyBer should implement a cheaper option of travel, such as a minibus or bicycle-sharing services. This might help lower the high price of car rides, while providing a cheaper solution to travel in rural areas, which are known to be less dense and harder to access.
+2. In order to bridge the gap between fare averages per driver and help urban drivers gain money that is more proportional to the amount of urban rides, PyBer can offer commissions for drivers that reach a certain amount of rides per week. An added commission on top of the money they gain from their original number of rides will help maintain the supply of drivers and prevent them from quittig due to low fares in urban cities.
+3. Implement further analysis of other potential factors involved in the high disparity between prices in the rural and urban cities. This will allow PyBer to further detect problems and consequentally develop apprpriate solutions. 
