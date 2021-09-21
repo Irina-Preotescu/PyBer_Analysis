@@ -20,10 +20,12 @@ Considering this finding, we can expect to see similar trends when inspecting ot
 
 Consequently, the fare shares follow a similar pattern, where urban rides accumulated a total of $39,854.38 in fares, suburban rides a total of $19,356.33, and rural rides a total of $4,327.93. As illustrated in the figure below, this means that out of the total fares for PyBer, 62.7% were from urban cities, 30.5% were from suburban cities, while the rest of 6.8% were from rural cities.
 
-![Fig5](https://github.com/Irina-Preotescu/PyBer_Analysis/blob/0a43a9a1e46bce3c3879d2666ab820c1730867f9/Fig5.png)
+![Fig5](https://github.com/Irina-Preotescu/PyBer_Analysis/blob/47187f0a5c8b375c63c269829303ea46d4a53de4/Fig5.png)
 
+Regarding the cost of rides, the average fare per ride in urban cities was $24.52, while the average fare for rural rides was $34.62, resulting in a considerable discrepancy in price. Suburban rides cost an average of $30.97. Considering that rural areas are more difficult to access, this indicates thare there might be room for improvement when it comes to affordability for rural citizens. The figure below portrays this difference, as well as that between the average fare per driver. Urban drivers obtain an average of $16.57, suburban drivers obtain an average of $39.50, and rural drivers obtain an average of $55.49.
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+![Fig8](https://github.com/Irina-Preotescu/PyBer_Analysis/blob/5f526744273d500031448845d90a00ac87f26c77/Fig8.png)
+
 
 
 
